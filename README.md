@@ -1,8 +1,8 @@
-# GettingAndCleaningData
-GettingAndCleaningData
+# Getting And Cleaning Data
+Getting And Cleaning Data
 
 
-Course Project
+# Course Project
 You should create one R script called run_analysis.R that does the following.
 1.Merges the training and the test sets to create one data set.
 2.Extracts only the measurements on the mean and standard deviation for each measurement.
@@ -12,7 +12,7 @@ You should create one R script called run_analysis.R that does the following.
 
 
 
-Steps to work on this course project.
+# Steps to work on this course project.
 1.Download the data source and put into a folder on your local drive. 
 2.Set the working directory to the folder where the downloaded files are,  using setwd() function in RStudio.
 3.Run  source("run_analysis.R"). It will generate a new file  tidydata.txt  in current directory.
